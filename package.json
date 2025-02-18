@@ -18,9 +18,7 @@
   "description": "",
   "dependencies": {
     "react": "*",
-    "react-native": "*"
-  },
-  "peerDependencies": {
+    "react-native": "*",
     "@realm/react": "*",
     "realm": "*"
   },
