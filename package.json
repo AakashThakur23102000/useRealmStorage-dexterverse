@@ -1,0 +1,30 @@
+{
+  "name": "userealmstorage-dexterverse",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakashThakur23102000/useRealmStorage-dexterverse.git"
+  },
+  "author": "AakashThakur23102000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AakashThakur23102000/useRealmStorage-dexterverse/issues"
+  },
+  "homepage": "https://github.com/AakashThakur23102000/useRealmStorage-dexterverse#readme",
+  "description": "",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "peerDependencies": {
+    "@realm/react": "*",
+    "realm": "*"
+  },
+  "devDependencies": {
+    "@types/react": "*"
+  }
+}
