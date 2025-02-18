@@ -16,13 +16,10 @@
   },
   "homepage": "https://github.com/AakashThakur23102000/useRealmStorage-dexterverse#readme",
   "description": "",
-  "dependencies": {
+  "peerDependencies": {
     "react": "*",
     "react-native": "*",
     "@realm/react": "*",
     "realm": "*"
-  },
-  "devDependencies": {
-    "@types/react": "*"
   }
 }
