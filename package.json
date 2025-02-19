@@ -9,13 +9,23 @@
     "type": "git",
     "url": "git+https://github.com/AakashThakur23102000/useRealmStorage-dexterverse.git"
   },
+  "keywords": [
+    "react-native",
+    "react native",
+    "async storage",
+    "asyncstorage",
+    "storage",
+    "realm",
+    "@realm/react",
+    "hooks"
+  ],
   "author": "AakashThakur23102000",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AakashThakur23102000/useRealmStorage-dexterverse/issues"
   },
   "homepage": "https://github.com/AakashThakur23102000/useRealmStorage-dexterverse#readme",
-  "description": "",
+  "description": "A lightweight wrapper around RealmDB for managing key-value storage in React Native, similar to AsyncStorage. This package provides an easy-to-use interface for storing, retrieving, and managing persistent data.",
   "peerDependencies": {
     "@realm/react": "*",
     "realm": "*"
