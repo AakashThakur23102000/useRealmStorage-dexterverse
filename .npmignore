@@ -1,11 +1,4 @@
 node_modules/
 package-lock.json
-dist/               # If this is only for local builds
-images/             # Prevents images from being included in the package
-*.png               # Exclude all PNG images
-*.jpg               # Exclude all JPG images
-*.svg               # Exclude all SVG images
-test/               # Exclude test files (if not needed in the package)
-.github/            # Exclude GitHub-related files (workflows, issue templates)
-.npmignore          # Exclude the `.npmignore` file itself
-.gitignore          # Exclude `.gitignore`
+dist/  
+images/
